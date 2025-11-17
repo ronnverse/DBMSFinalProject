@@ -1,2 +1,123 @@
-<!DOCTYPYE HTML>
-<html> </html>
+<!DOCTYPE html>
+<html> 
+<head>
+<style>
+body {
+  background-image: url('https://images.squarespace-cdn.com/content/v1/5fa1522044bdda192713063c/1631437145222-MHL9JA48Z7WF8GB8IP7Z/San+Juan%2C+Batangas?format=2500w');
+  background-size: 1525px 730px;
+  background-repeat: no-repeat;
+  }
+
+h2, p {
+  margin: 10px;
+}
+
+#iba {
+	float:right;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #FFFFFF;
+}
+
+ul li {
+  float:left;
+  
+}
+
+
+ul li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  background-color: #FFFFFF;
+  text-decoration: none;
+}
+
+ul li a:hover:not(.active) {
+  background-color: #111111;
+}
+
+ul li a.active {
+  background-color: #04AA6D;
+}
+
+#searchbar{
+  padding: 6px;
+  border: none;
+  margin-top: 50px;
+  margin-right: 5px;
+  font-size: 17px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  
+}
+
+
+
+
+
+</style>
+    <title>TOURISM</title>
+</head>
+<body>
+    <ul>
+		<li>Logo</li>
+		<li>LAKBAY</li>
+		<li id="iba"><button type="button"><a href="file:///C:/Program%20Files/Notepad++/FinalProject.html">Log In</button></a></li>
+		<li id="iba"><button type="button"><a href="file:///C:/Program%20Files/Notepad++/FinalProject.html">Sign Up</button></a></li>
+		<li id="iba"><a href="file:///C:/Program%20Files/Notepad++/FinalProject.html">About Us</a></li>
+		<li id="iba"><a href="file:///C:/Program%20Files/Notepad++/FinalProject.html">Offers</a></li>
+		<li id="iba"><a href="file:///C:/Program%20Files/Notepad++/FinalProject.html">Destination</a></li>
+		<li id="iba"><a href="file:///C:/Program%20Files/Notepad++/FinalProject.html">Home</a></li>	
+	</ul>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<div id="searchbar">
+	<input type="text" placeholder="Search.." style="width: 250px; height: 30px;" >
+	<button type="button" style="width: 10%; height: 30px;" ><img src="C:\Users\User\Downloads\magnifying_glass.jpg" style="width: 10%"></button>
+	</div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</body>  
+</html>
